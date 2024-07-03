@@ -10,7 +10,7 @@
 
 ## Summary
 
-  *I am a former professional soccer player! I want to become a front-end developer! I am purposeful, sociable, learn fast, handle stressful situations well!*
+  *I want to become a front-end developer! I am purposeful, sociable, learn fast, handle stressful situations well!*
 
 ## Skills 
 
@@ -26,8 +26,8 @@
 ```
 ## Education
 
-  * *Belarusian State University of Physical Culture*
-  * *courses of basic objective-oriented programming*
+  * *A.A. Kulkshov Mogilev State University*
+  * *courses physical education department*
 
 ## English
 
