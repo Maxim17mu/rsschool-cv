@@ -1,1 +1,1 @@
-https://Max17mu.github.io/rsschool-cv/cv,
+https://Max17mu.github.io/rsschool-cv/cv
