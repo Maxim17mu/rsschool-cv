@@ -31,4 +31,4 @@
 
 ## English
 
-  English (А1+) (A2)
+  English (А1+) (A2).
